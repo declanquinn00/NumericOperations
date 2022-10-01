@@ -1,4 +1,4 @@
-import numericOperation 
+from numericOperation import *
 
 
 def test_mult():
